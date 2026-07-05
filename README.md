@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lain-anime.gif" width="1000">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/anime.gif" width="1000">
 </p>
 
 <h1 align="center">⚠️ LEOSQL ⚠️</h1>
