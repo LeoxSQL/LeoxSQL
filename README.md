@@ -63,9 +63,7 @@ ONLINE
 <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,js,ts,nodejs,react,html,css,mysql,mongodb,docker,git,github,vscode,kali&theme=dark" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,js,html,css,git,github,vscode,docker,mysql,kali&theme=dark">
-</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00ff99">
@@ -85,7 +83,7 @@ ONLINE
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoxSQL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000">
+<img width="49%"" src="https://github-readme-stats.vercel.app/api?username=LeoxSQL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000">
 </p>
 
 <p align="center">
@@ -111,6 +109,11 @@ ONLINE
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 
 # 🌐 CONNECT
+# ⚡ LIVE ACTIVITY
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoxSQL&theme=react-dark&bg_color=000000&hide_border=true&line=00ff99&color=00ff99">
+</p>
 
 <p align="center">
 <a href="https://github.com/LeoxSQL">
@@ -121,6 +124,13 @@ ONLINE
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 
 # 🐍 CONTRIBUTION SNAKE
+```text
+01010100 01000101 01010010 01001101 01001001 01001110 01000001 01001100
+
+ACCESS GRANTED
+WELCOME BACK ROOT
+SYSTEM ACTIVE
+```
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
@@ -129,4 +139,7 @@ ONLINE
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:7f00ff&height=120&section=footer"/>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=LeoxSQL&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:7f00ff&height=180&section=footer&animation=fadeIn"/>
 </p>
