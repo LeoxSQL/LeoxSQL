@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&color=00FF99&center=true&vCenter=true&width=1000&lines=LEOSQL;CYBER+SECURITY+ENTHUSIAST;SYSTEM+ONLINE;ACCESS+GRANTED" />
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="1000">
 </p>
 
 <p align="center">
@@ -21,6 +21,19 @@ Cyber Security • Linux • Developer • Night Coder
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 
 # 💀 ABOUT ME
+
+```console
+┌──(root㉿leosql)-[~/system]
+└─$ initialize profile
+
+[✓] Cyber Security
+[✓] Linux
+[✓] Backend Development
+[✓] Python Automation
+[✓] Reverse Engineering
+
+SYSTEM STATUS : ONLINE
+```
 
 ```bash
 root@leosql:~# whoami
@@ -47,6 +60,10 @@ ONLINE
 # ⚒️ TECH STACK
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,js,ts,nodejs,react,html,css,mysql,mongodb,docker,git,github,vscode,kali&theme=dark" />
+</p>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,js,html,css,git,github,vscode,docker,mysql,kali&theme=dark">
 </p>
 
@@ -62,6 +79,10 @@ ONLINE
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 
 # 📊 GITHUB STATS
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoxSQL&theme=tokyonight" />
+</p>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoxSQL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000">
@@ -106,3 +127,6 @@ ONLINE
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:7f00ff&height=120&section=footer"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LeoxSQL&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
