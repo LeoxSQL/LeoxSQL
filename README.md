@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="1000">
+<img src="[https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)" width="1000">
 </p>
 
 <h1 align="center">⚡ LEOSQL ⚡</h1>
@@ -17,13 +17,19 @@ Cyber Security • Developer • Linux • Night Coder
 
 ---
 
-# 🧠 ABOUT ME
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=FF00FF&center=true&vCenter=true&width=500&lines=ABOUT+ME" />
+</h1>
 ---
 
-# 🛠 TECH STACK
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=500&lines=TECH+STACK" />
+</h1>
 ---
 
-# 📊 GITHUB STATS
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF99&center=true&vCenter=true&width=500&lines=GITHUB+STATS" />
+</h1>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoxSQL&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
@@ -48,7 +54,9 @@ root@leosql:~# status
 ONLINE
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=FF0000&center=true&vCenter=true&width=600&lines=CONTRIBUTION+SNAKE" />
+</h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
