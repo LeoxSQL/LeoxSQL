@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="[https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)" width="1000">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="1000">
 </p>
 
 <h1 align="center">⚡ LEOSQL ⚡</h1>
