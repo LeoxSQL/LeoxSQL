@@ -12,6 +12,12 @@
 Cyber Security • Linux • Developer • Night Coder
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-CYBER_SECURITY-111111?style=for-the-badge&logo=hackaday&logoColor=00ff99">
+<img src="https://img.shields.io/badge/OS-KALI_LINUX-111111?style=for-the-badge&logo=kalilinux&logoColor=00ff99">
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 
 # 💀 ABOUT ME
@@ -26,11 +32,77 @@ Cyber Security Enthusiast
 root@leosql:~# currently
 Learning • Building • Improving
 
+root@leosql:~# languages
+Python • C++ • Bash • JavaScript
+
+root@leosql:~# focus
+Linux • Pentesting • Backend • Security
+
 root@leosql:~# status
 ONLINE
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
 # ⚒️ TECH STACK
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,js,html,css,git,github,vscode,docker,mysql,kali&theme=dark"> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00ff99"> <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00ff99"> <img src="https://img.shields.io/badge/CyberSecurity-111111?style=for-the-badge&logo=hackaday&logoColor=00ff99"> <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=00ff99"> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,js,html,css,git,github,vscode,docker,mysql,kali&theme=dark">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00ff99">
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00ff99">
+<img src="https://img.shields.io/badge/CyberSecurity-111111?style=for-the-badge&logo=hackaday&logoColor=00ff99">
+<img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=00ff99">
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=00ff99">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00ff99">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
 # 📊 GITHUB STATS
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoxSQL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"> </p> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoxSQL&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoxSQL&theme=tokyonight&hide_border=true&background=000000"> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoxSQL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000">
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoxSQL&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoxSQL&theme=tokyonight&hide_border=true&background=000000">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
+# 🧠 CURRENT MISSION
+
+```txt
+> Building projects
+> Learning cybersecurity
+> Improving Linux skills
+> Exploring backend systems
+> Becoming elite developer
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
+# 🌐 CONNECT
+
+<p align="center">
+<a href="https://github.com/LeoxSQL">
+<img src="https://img.shields.io/badge/GitHub-LeoxSQL-111111?style=for-the-badge&logo=github&logoColor=00ff99">
+</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
 # 🐍 CONTRIBUTION SNAKE
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:7f00ff&height=120&section=footer"/> ```
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:7f00ff&height=120&section=footer"/>
