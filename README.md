@@ -1,28 +1,30 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FF0000&center=true&vCenter=true&width=1000&lines=LEOSQL;WELCOME+TO+THE+DARKNESS;SYSTEM+BREACHED">
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&color=FF0000&center=true&vCenter=true&width=1000&lines=LEOSQL;WELCOME+TO+THE+DARKNESS;SYSTEM+BREACHED;ACCESS+GRANTED" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&color=00FF99&center=true&vCenter=true&width=1000&lines=LEOSQL;CYBER+SECURITY+ENTHUSIAST;WELCOME+TO+THE+VOID;ACCESS+GRANTED;SYSTEM+ONLINE" />
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/anime.gif" width="1000">
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="1000">
 </p>
 
-<h1 align="center">⚠️ LEOSQL ⚠️</h1>
+<h1 align="center">⚡ LEOSQL ⚡</h1>
 
 <p align="center">
-shadow hacker • anime lover • night coder
+Cyber Security • Developer • Linux • Night Coder
 </p>
 
 ---
 
-# 🩸 ABOUT ME
+# 🧠 ABOUT ME
 
 ```bash
-Name      : LeoxSQL
-Role      : Shadow Hacker
-Focus     : Cyber Security
-Status    : Online
-Mood      : Emotionless
-Location  : Dark Web
+root@leosql:~# whoami
+LeoxSQL
+
+root@leosql:~# role
+Cyber Security Enthusiast
+
+root@leosql:~# currently
+Learning • Building • Improving
+
+root@leosql:~# status
+ONLINE
